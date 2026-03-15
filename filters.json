@@ -1,0 +1,21 @@
+[
+  {
+    "match": "mindhunter",
+    "cuts": [
+      { "start": 14, "end": 29, "reason": "cena marcada" },
+      { "start": 90, "end": 120, "reason": "nudez" }
+    ]
+  },
+  {
+    "match": "demo",
+    "cuts": [
+      { "start": 5, "end": 10, "reason": "teste" }
+    ]
+  },
+  {
+    "match": "titanic",
+    "cuts": [
+      { "start": 4300, "end": 4350, "reason": "nudez" }
+    ]
+  }
+]
