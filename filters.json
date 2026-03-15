@@ -1,6 +1,6 @@
 [
   {
-    "match": "mindhunter",
+    "match": "netflix - youtube",
     "cuts": [
       { "start": 14, "end": 29, "reason": "cena marcada" },
       { "start": 90, "end": 120, "reason": "nudez" }
